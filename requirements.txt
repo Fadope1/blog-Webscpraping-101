@@ -1,0 +1,9 @@
+# 1
+protego
+
+# 2
+cloudscraper
+
+# 3
+BeautifulSoup4
+lxml
